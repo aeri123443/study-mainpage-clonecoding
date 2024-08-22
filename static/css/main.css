@@ -79,6 +79,7 @@
 .info-inner .title-wrap h4{font-size: 24px; font-weight: 600;}
 .info-inner .title-wrap .btn-link-cir{background-color: #f1f1f1;}
 .info-inner .notice-list > li{display: flex; justify-content: space-between; padding-bottom: 15px;}
+.notice-tit{overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 400px;}
 .notice-date{font-size: 15px; color: #6e6e6e;}
 .card-large{display: flex; width: 1100px; margin: 90px 0; padding: 60px; box-sizing: border-box; border-radius: 15px; background-color: #252835; color: #ffffff;}
 .card-large .card-left{display: flex; flex-direction: column; justify-content: space-between; width: 100%;}
